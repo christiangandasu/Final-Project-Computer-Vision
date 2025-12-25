@@ -52,6 +52,7 @@ To run this application locally, follow these steps:
 2.  **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
+    python -m spacy download en_core_web_sm
     ```
     
 3.  **Run the Application:**
