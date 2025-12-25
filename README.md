@@ -43,7 +43,7 @@ To run this application locally, follow these steps:
 1.  **Clone the Repository:**
     ```bash
     # Step 1a: Clone the repository to your local machine
-    git clone [https://github.com/christiangandasu/Final-Project-Deep-Learning](https://github.com/christiangandasu/Final-Project-Deep-Learning)
+    git clone [https://github.com/christiangandasu/Final-Project-Computer-Vision](https://github.com/christiangandasu/Final-Project-Computer-Vision)
 
     # Step 1b: Navigate into the newly created project folder
     cd Final-Project-Computer-Vision
